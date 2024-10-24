@@ -53,7 +53,7 @@ internal class Program
                 formula.Imprimir();
             }
 
-            Console.WriteLine();  // Espacio adicional antes de mostrar el menú nuevamente
+            Console.WriteLine();
         }
     }
 }
